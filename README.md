@@ -1,6 +1,6 @@
 # TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
 
-![Fullstack Twitter Clone (2)](https://user-images.githubusercontent.com/23248726/224405420-03112a76-250a-4283-992c-60e235170678.png)
+![Fullstack Twitter Clone (2)](https://i.ibb.co/YcB8dv4/Screenshot-from-2023-04-08-10-48-30.png)
 
 This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
